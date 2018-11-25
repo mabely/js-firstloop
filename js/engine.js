@@ -2,6 +2,7 @@
 var lines = "i must remember to sign in.";
 var message = '';
 whileloop();
+message = '';
 forloop();
 
 function whileloop(){
